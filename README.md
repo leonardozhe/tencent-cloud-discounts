@@ -219,6 +219,10 @@
 - [游戏服务器方案](docs/game.md) - 游戏服专属优惠
 - [音视频低代码](docs/av-lowcode.md) - TRTC/IM/直播
 
+### 对比与优化
+- [腾讯云 vs 阿里云](docs/vs-aliyun.md) - 两大云平台核心产品对比
+- [成本优化实战](docs/cost-optimization.md) - 真实案例节省 50%-90%
+
 ---
 
 ## 📮 更新 & 反馈
