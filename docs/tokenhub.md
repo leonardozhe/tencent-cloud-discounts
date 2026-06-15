@@ -4,7 +4,7 @@
 
 > 🎫 **新用户开通可获最高 100 万免费 Tokens**
 
-[🔖 领取免费 Tokens →](https://curl.qcloud.com/Jmr2j2eu)
+[🔖 领取免费 Tokens →](https://curl.qcloud.com/CrDPcagq)
 
 ---
 
@@ -146,7 +146,7 @@ response = client.chat.completions.create(
 
 ### 快速开始
 
-1. **领取免费 Tokens** → [🔖 领取 100 万 Tokens →](https://curl.qcloud.com/Jmr2j2eu)
+1. **领取免费 Tokens** → [🔖 领取 100 万 Tokens →](https://curl.qcloud.com/CrDPcagq)
 2. **注册腾讯云** → 完成实名认证
 3. **开通 TokenHub** → 控制台开通
 4. **获取 API Key** → 一键获取
@@ -176,7 +176,7 @@ client = OpenAI(
 | Token Plan | 包月比按量省 50%-80% | 50-80% |
 | 模型分级 | 简单任务用 Flash，复杂用 Pro | - |
 | 缓存复用 | 相似请求缓存结果 | - |
-| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/Jmr2j2eu) 下单** | **额外折扣** |
+| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/CrDPcagq) 下单** | **额外折扣** |
 
 ---
 
@@ -194,4 +194,4 @@ TokenHub 是目前腾讯云**最完整的大模型服务平台**：
 
 ---
 
-[← 返回首页](../README.md) | [🔖 领取 100 万 Tokens →](https://curl.qcloud.com/Jmr2j2eu)
+[← 返回首页](../README.md) | [🔖 领取 100 万 Tokens →](https://curl.qcloud.com/CrDPcagq)

@@ -4,7 +4,7 @@
 
 > 🎫 **新客户付费开通立享加赠 100 元 PU 资源包（10 万 PU）**
 
-[🔖 领取 ADP 优惠 →](https://curl.qcloud.com/Jmr2j2eu)
+[🔖 领取 ADP 优惠 →](https://curl.qcloud.com/CrDPcagq)
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## 定价模型
 
-> 💰 所有方案均可通过 [专属优惠链接](https://curl.qcloud.com/Jmr2j2eu) 享受额外折扣
+> 💰 所有方案均可通过 [专属优惠链接](https://curl.qcloud.com/CrDPcagq) 享受额外折扣
 
 ### 专业版
 
@@ -192,7 +192,7 @@
 
 ### 快速开始
 
-1. **领取优惠** → [🔖 领取 100 元 PU 包 →](https://curl.qcloud.com/Jmr2j2eu)
+1. **领取优惠** → [🔖 领取 100 元 PU 包 →](https://curl.qcloud.com/CrDPcagq)
 2. **注册腾讯云** → 完成实名认证
 3. **开通 ADP** → 控制台开通专业版/企业版
 4. **选择模板** → 客服/招聘/销售/法务等
@@ -219,7 +219,7 @@
 | 新客福利 | 赠 100 元 PU 包 | 100 元 |
 | 年付优惠 | 比月付更划算 | - |
 | Skill 复用 | 复用已有 Skill | - |
-| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/Jmr2j2eu) 下单** | **额外折扣** |
+| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/CrDPcagq) 下单** | **额外折扣** |
 
 ---
 
@@ -237,4 +237,4 @@ ADP 是目前腾讯云**最完整的企业级智能体开发平台**：
 
 ---
 
-[← 返回首页](../README.md) | [🔖 领取 100 元 PU 包 →](https://curl.qcloud.com/Jmr2j2eu)
+[← 返回首页](../README.md) | [🔖 领取 100 元 PU 包 →](https://curl.qcloud.com/CrDPcagq)

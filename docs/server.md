@@ -4,7 +4,7 @@
 
 > 🎫 **所有服务器均可通过专属链接享受额外折扣**
 
-[🔖 领取服务器优惠 →](https://curl.qcloud.com/Jmr2j2eu)
+[🔖 领取服务器优惠 →](https://curl.qcloud.com/0MIVctv6)
 
 ---
 
@@ -160,7 +160,7 @@
 
 ### 快速开始
 
-1. **领取优惠** → [🔖 领取服务器优惠 →](https://curl.qcloud.com/Jmr2j2eu)
+1. **领取优惠** → [🔖 领取服务器优惠 →](https://curl.qcloud.com/0MIVctv6)
 2. **注册腾讯云** → 完成实名认证
 3. **选择产品** → 轻量 / CVM / GPU
 4. **配置资源** → 选择配置和镜像
@@ -192,4 +192,4 @@
 
 ---
 
-[← 返回首页](../README.md) | [🔖 领取服务器优惠 →](https://curl.qcloud.com/Jmr2j2eu)
+[← 返回首页](../README.md) | [🔖 领取服务器优惠 →](https://curl.qcloud.com/0MIVctv6)

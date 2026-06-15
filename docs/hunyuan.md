@@ -4,7 +4,7 @@
 
 > 🎫 **新用户专享：混元生 3D 赠 100 积分**
 
-[🔖 领取免费额度 →](https://curl.qcloud.com/Jmr2j2eu)
+[🔖 领取免费额度 →](https://curl.qcloud.com/CrDPcagq)
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 定价模型
 
-> 💰 所有产品均可通过 [专属优惠链接](https://curl.qcloud.com/Jmr2j2eu) 享受额外折扣
+> 💰 所有产品均可通过 [专属优惠链接](https://curl.qcloud.com/CrDPcagq) 享受额外折扣
 
 ### 混元生图
 
@@ -179,7 +179,7 @@
 
 ### 快速开始
 
-1. **领取免费额度** → [🔖 领取 100 积分 →](https://curl.qcloud.com/Jmr2j2eu)
+1. **领取免费额度** → [🔖 领取 100 积分 →](https://curl.qcloud.com/CrDPcagq)
 2. **注册腾讯云** → 完成实名认证
 3. **开通服务** → 控制台开通混元生图/视频/3D
 4. **获取密钥** → SecretId + SecretKey
@@ -215,7 +215,7 @@ result = response.json()
 | 免费额度 | 新用户 100 积分 | 100% |
 | 分辨率选择 | 测试用低分辨率，正式用高清 | - |
 | 批量生成 | 利用批量 API | - |
-| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/Jmr2j2eu) 下单** | **额外折扣** |
+| **专属优惠** | **通过 [本页链接](https://curl.qcloud.com/CrDPcagq) 下单** | **额外折扣** |
 
 ---
 
@@ -232,4 +232,4 @@ result = response.json()
 
 ---
 
-[← 返回首页](../README.md) | [🔖 领取 100 积分 →](https://curl.qcloud.com/Jmr2j2eu)
+[← 返回首页](../README.md) | [🔖 领取 100 积分 →](https://curl.qcloud.com/CrDPcagq)
