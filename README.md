@@ -200,18 +200,24 @@
 
 ## 📂 详细文档
 
-| 文档 | 内容 | 优惠入口 |
-|------|------|---------|
-| [🎫 优惠券攻略](docs/coupons.md) | 所有优惠券领取、叠加策略 | [综合 →](https://curl.qcloud.com/Jmr2j2eu) |
-| [TokenHub 分析](docs/tokenhub.md) | 大模型 API 选型 | [AI →](https://curl.qcloud.com/CrDPcagq) |
-| [Token Plan 分析](docs/token-plan.md) | 大模型包月套餐 | [AI →](https://curl.qcloud.com/CrDPcagq) |
-| [混元大模型分析](docs/hunyuan.md) | AI 图像/视频/3D | [AI →](https://curl.qcloud.com/CrDPcagq) |
-| [ADP 智能体平台](docs/adp.md) | 企业 AI Agent | [AI →](https://curl.qcloud.com/CrDPcagq) |
-| [OpenClaw 部署](docs/openclaw.md) | AI 智能体一键部署 | [轻量 →](https://curl.qcloud.com/0MIVctv6) |
-| [云服务器选型](docs/server.md) | 轻量/CVM/GPU | [轻量 →](https://curl.qcloud.com/0MIVctv6) |
-| [语音产品分析](docs/voice.md) | 语音识别/合成/翻译 | [语音 →](https://curl.qcloud.com/2OWnJQnv) |
-| [游戏服分析](docs/game.md) | 游戏服务器方案 | [游戏 →](https://curl.qcloud.com/zX0WAi5D) |
-| [音视频低代码](docs/av-lowcode.md) | TRTC/IM/直播 | [音视频 →](https://curl.qcloud.com/2GVRH2aZ) |
+### 快速入门
+- [🚀 快速开始指南](QUICKSTART.md) - 5 分钟上手腾讯云
+
+### 优惠与成本
+- [🎫 优惠券与折扣全攻略](docs/coupons.md) - 所有优惠券汇总与成本优化技巧
+
+### AI 产品
+- [TokenHub 技术详解](docs/tokenhub.md) - 大模型服务平台
+- [Token Plan 套餐指南](docs/token-plan.md) - 包月套餐详解
+- [混元大模型应用](docs/hunyuan.md) - 图像/视频/3D 生成
+- [ADP 智能体平台](docs/adp.md) - 企业级 Agent 开发
+- [OpenClaw 部署指南](docs/openclaw.md) - 一键部署 AI 智能体
+
+### 云服务
+- [云服务器选型](docs/server.md) - 轻量/CVM/GPU 对比
+- [语音产品特惠](docs/voice.md) - 语音识别/合成/翻译
+- [游戏服务器方案](docs/game.md) - 游戏服专属优惠
+- [音视频低代码](docs/av-lowcode.md) - TRTC/IM/直播
 
 ---
 
